@@ -32,4 +32,42 @@ This is a pre-made course presenting an overview of a qubit, quantum gates, quan
 
 - [Link to complete assignments](https://pqcee.github.io/course-quicscript-K12/)
 - [Documentation](https://pqcee.github.io/QuICScript-manual/)
-- [q12education](https://q12education.org/resource-hub)
+- [Q12education](https://q12education.org/resource-hub)
+
+## QIS Integration Resources by Subject
+
+## Computer Science
+
+[QIS Computer Science Framework](https://q12education.org/wp-content/uploads/2023/12/HS-CS-QIS-Key-Concepts-FINAL-12-7-2023-1.pdf)
+
+- Key quantum computing concepts
+- Programming quantum circuits
+- Algorithm development
+
+## Physics
+
+[QIS Physics Framework](https://q12education.org/wp-content/uploads/2023/12/HS-Physics-QIS-Key-Concepts-FINAL-12-7-2023.pdf)
+
+- Quantum mechanics fundamentals
+- Measurement principles
+- Quantum phenomena
+
+## Chemistry
+
+[QIS Chemistry Framework](https://q12education.org/wp-content/uploads/2023/12/HS-Chemistry-QIS-Key-Concepts-FINAL-12-3-2023.pdf)
+
+- Quantum chemistry applications
+- Molecular modeling
+- Chemical simulation
+
+## Mathematics
+
+[QIS Mathematics Framework](https://q12education.org/wp-content/uploads/2023/12/HS-Math-QIS-Key-Concepts-FINAL-12-3-2023.pdf)
+
+- Linear algebra foundations
+- Probability and statistics
+- Complex numbers
+
+_All frameworks updated: December 7, 2023_
+
+Note: These frameworks are developed by Q12 Education to help integrate Quantum Information Science into existing K-12 curricula.
