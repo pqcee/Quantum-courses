@@ -36,7 +36,7 @@ This is a pre-made course presenting an overview of a qubit, quantum gates, quan
 
 ## QIS Integration Resources by Subject
 
-## Computer Science
+### Computer Science
 
 [QIS Computer Science Framework](https://q12education.org/wp-content/uploads/2023/12/HS-CS-QIS-Key-Concepts-FINAL-12-7-2023-1.pdf)
 
@@ -44,7 +44,7 @@ This is a pre-made course presenting an overview of a qubit, quantum gates, quan
 - Programming quantum circuits
 - Algorithm development
 
-## Physics
+### Physics
 
 [QIS Physics Framework](https://q12education.org/wp-content/uploads/2023/12/HS-Physics-QIS-Key-Concepts-FINAL-12-7-2023.pdf)
 
@@ -52,7 +52,7 @@ This is a pre-made course presenting an overview of a qubit, quantum gates, quan
 - Measurement principles
 - Quantum phenomena
 
-## Chemistry
+### Chemistry
 
 [QIS Chemistry Framework](https://q12education.org/wp-content/uploads/2023/12/HS-Chemistry-QIS-Key-Concepts-FINAL-12-3-2023.pdf)
 
@@ -60,13 +60,22 @@ This is a pre-made course presenting an overview of a qubit, quantum gates, quan
 - Molecular modeling
 - Chemical simulation
 
-## Mathematics
+### Mathematics
 
 [QIS Mathematics Framework](https://q12education.org/wp-content/uploads/2023/12/HS-Math-QIS-Key-Concepts-FINAL-12-3-2023.pdf)
 
 - Linear algebra foundations
 - Probability and statistics
 - Complex numbers
+
+### Middle School STEM
+
+[QIS Middle School Framework](https://q12education.org/wp-content/uploads/2023/12/MS-QIS-Key-Concepts-FINAL-12-7-2023.pdf)
+
+- Probability concepts
+- Atomic structure
+- Nature of light
+- Computational thinking
 
 _All frameworks updated: December 7, 2023_
 
